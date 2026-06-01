@@ -19,6 +19,16 @@
 
 ---
 
+## 🎬 프로젝트 시연 및 발표 자료 (Demo & Presentation)
+
+이 프로젝트의 실제 구동 영상과 기획/아키텍처에 대한 발표 자료를 아래 링크를 통해 직접 확인하실 수 있습니다.
+
+| 🎥 서비스 시연 영상 (Streamlit) | 📊 프로젝트 발표 자료 (PPT) |
+| :---: | :---: |
+| <a href="스트림릿시연영상.mp4"><img src="https://img.shields.io/badge/Demo_Video-Play-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Play Video" /></a><br/>**[시연 영상 재생 및 다운로드]** | <a href="자세히봐.pptx"><img src="https://img.shields.io/badge/Presentation-PPT_Download-0078D4?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Download PPT" /></a><br/>**[발표 자료 다운로드]** |
+
+---
+
 ## 💡 프로젝트 개요 (Project Overview)
 
 현대 직장인과 학생들의 고질병인 근골격계 질환(거북목증후군, 척추측만증 등)은 단순히 **"신체 자세"**뿐만 아니라 모니터 높이, 책상 높이, 의자 밀착도 등 **"작업 환경(Ergonomic Environment)"**과의 관계에서 비롯됩니다.
@@ -114,6 +124,8 @@ Fit_me_up/
 │   └── yolo_test.py          # YOLO 추론 테스트 모듈
 ├── app.py                    # Streamlit 기반 통합 웹 서비스 엔트리포인트 (Web Server)
 ├── integrate.py              # Tkinter 기반 로컬 분석 프로그램 엔트리포인트 (Desktop Client)
+├── 스트림릿시연영상.mp4        # [NEW] Streamlit 서비스 작동 시연 영상 (약 29MB)
+├── 자세히봐.pptx              # [NEW] 프로젝트 기획 및 아키텍처 상세 발표 자료 (약 29MB)
 ├── requirements.txt          # 프로젝트 공통 가상환경 의존성 패키지 리스트
 ├── users.json                # 사용자 인증 로컬 데이터베이스
 └── user_history.json         # 분석 점수 누적 데이터베이스
