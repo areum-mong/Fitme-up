@@ -1,7 +1,7 @@
-# 🧘 자세히봐 (JASEE) — AI 자세 및 작업 환경 통합 분석 시스템
+# 🧘 FIt me up — AI 자세 및 작업 환경 통합 분석 시스템
 
 <p align="center">
-  <img src="logo (1).png" alt="JASEE Logo" width="280" />
+<img width="611" height="604" alt="logo_transparent" src="https://github.com/user-attachments/assets/dff45f71-715e-4c18-9e91-1a71ba723a01" />
 </p>
 
 <p align="center">
